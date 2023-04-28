@@ -130,4 +130,4 @@ Function WordToNumberRange1(inputString As String) As Double
                
             
             End Function
-    
+   
